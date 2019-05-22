@@ -94,6 +94,22 @@ h1::after{
   columns: #1ebba3;
 
 }
+.btn-floating i {
+
+  display: inline-block;
+  width: inherit;
+  text-align: center;
+  color: #fff;
+
+}
+.map-container-9 iframe
+{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
 
 
 
