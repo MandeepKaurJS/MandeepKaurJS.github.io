@@ -102,6 +102,9 @@ h1::after{
   color: #fff;
 
 }
+.fa-map-marker-alt:hover{
+  color: aquamarine;
+}
 .map-container-9 iframe
 {
 left:0;
