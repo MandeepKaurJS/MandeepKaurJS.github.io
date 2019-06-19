@@ -33,7 +33,9 @@ body{
 .dropdown-item{
   padding: 2px;
   color: gray;
+
 }
+.myClass option { background:#000; color:#fff}
 /*******Slide*****/
 .carousel-item{
   height: 100vh;
@@ -70,7 +72,7 @@ h1::after{
  #exampleModal{
    color: burlywood;
  }
- #arrow { font-size: 1.5rem; }
+ #arrow { font-size: 1rem; }
  .fa-arrow-circle-up{
    align-content: center;
  }
