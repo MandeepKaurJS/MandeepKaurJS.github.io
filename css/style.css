@@ -71,6 +71,12 @@ h1::after{
    color: burlywood;
  }
  #arrow { font-size: 1.5rem; }
+ .fa-arrow-circle-up{
+   align-content: center;
+ }
+ .fa-arrow-circle-up:hover{background: #1ebba3;}
+
+
  i { vertical-align: middle; }
  .fa-stack:hover{
         background: #1ebba3;
