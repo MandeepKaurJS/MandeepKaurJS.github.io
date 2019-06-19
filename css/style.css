@@ -104,9 +104,10 @@ h1::after{
 }
 .carousel-caption {
     position: absolute;
-    top: 50%;
+    top: 60%;
     transform: translateY(-50%);
 }
+
 
 
 
