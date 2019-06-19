@@ -102,6 +102,11 @@ h1::after{
   color: #fff;
 
 }
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
 
 
 
