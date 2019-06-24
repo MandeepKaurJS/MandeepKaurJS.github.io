@@ -48,7 +48,7 @@ body{
     background:transparent;
     border-radius: 4px;
     border:2px;
-    border-color:white;
+    outline: red;
 }
 
 
