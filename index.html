@@ -42,8 +42,7 @@
       return false;
   }
   document.querySelector('.status').innerHTML = "Sending...";
-}
-formData = {
+  formData = {
 'name'     : $('input[name=name]').val(),
 'email'    : $('input[name=email]').val(),
 'subject'  : $('input[name=subject]').val(),
@@ -67,6 +66,8 @@ error: function (jqXHR, textStatus, errorThrown)
 $('#status').text(jqXHR);
 }
 });
+}
+
 
     </script>
     <title>Mandeep-Kaur-portfolio</title>
